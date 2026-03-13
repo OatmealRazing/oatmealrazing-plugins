@@ -9,7 +9,7 @@
     {
       "name": "dev-context-methodology",
       "description": "Project lifecycle tracking and context management using the Dev Context Methodology (DCM)",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "category": "productivity",
       "source": {
         "source": "url",
