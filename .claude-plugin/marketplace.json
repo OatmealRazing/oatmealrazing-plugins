@@ -1,0 +1,21 @@
+{
+  "name": "oatmealrazing-plugins",
+  "description": "Agent-agnostic plugins for project management, context methodology, and developer workflows",
+  "owner": {
+    "name": "Alex Shaddy",
+    "url": "https://github.com/OatmealRazing"
+  },
+  "plugins": [
+    {
+      "name": "dev-context-methodology",
+      "description": "Project lifecycle tracking and context management using the Dev Context Methodology (DCM)",
+      "version": "0.1.0",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/OatmealRazing/dev-context-methodology.git"
+      },
+      "homepage": "https://github.com/OatmealRazing/dev-context-methodology"
+    }
+  ]
+}
