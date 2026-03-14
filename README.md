@@ -13,6 +13,7 @@ claude plugin marketplace add OatmealRazing/oatmealrazing-plugins
 | Plugin | Description |
 |--------|-------------|
 | `dev-context-methodology` | Project lifecycle tracking and context management using DCM |
+| `daythread` | Personal life task tracking and reminders for Claude Code |
 
 ### Install a plugin
 
